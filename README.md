@@ -1,9 +1,12 @@
 ## CLI Task List
+***
 
-CLI Task List é um aplicativo de linha de comando para gerenciamento de tarefas. Com ele, você pode criar, listar, atualizar e excluir tarefas de um arquivo de texto simples.
+CLI Task List is a command line application for task management. With it, you can create, list, update and delete tasks from a plain text file.
 
-### Instalação
-Para instalar o CLI Task List, você precisará ter o Python 3 instalado em seu sistema. Em seguida, basta clonar o repositório do GitHub e usar o gerenciador de pacotes pip para instalar as dependências:
+### Installation
+***
+
+To install the CLI Task List, you will need to have Python 3 installed on your system. Then just clone the GitHub repository and use the pip package manager to install the dependencies:
 
 ```
 git clone https://github.com/Alyssonmach/cli-task-list.git
@@ -11,18 +14,21 @@ cd cli-task-list
 pip install -r requirements.txt
 ```
 
-### Uso
+### Use
+***
 
-Para usar o CLI Task List, basta executar o arquivo task_list.py com o Python. Ele mostrará as opções disponíveis:
+To use the CLI Task List, just run the task_list.py file with Python. It will show the available options:
 
 ```
 python task_list.py
 ```
 
-### Contribuição
+### Contribution
+***
 
-Se você deseja contribuir para o CLI Task List, basta criar um fork do repositório e criar um pull request com suas alterações. Todas as contribuições são bem-vindas!
+If you want to contribute to the CLI Task List, simply fork the repository and create a pull request with your changes. All contributions are welcome!
 
-### Licença
+### License
+***
 
-O CLI Task List está disponível sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+The CLI Task List is available under the MIT license. See the [LICENSE](LICENSE) file for more details.
