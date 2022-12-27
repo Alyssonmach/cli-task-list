@@ -1,7 +1,0 @@
-* CLI TASK LIST:
-
-    ☐ trocar group_id por group_name;
-    ☐ terminar as funções de visualização da lista de tarefas por grupos;
-    ☐ criar uma função que permite atualizar o grupo;
-    ☐ adicionar as novas funcionalidades de gerenciamento de grupo a função main;
-    ☐ corrigir erro na linha 406 (atualizar função 'add_task');
