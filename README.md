@@ -25,4 +25,4 @@ Se você deseja contribuir para o CLI Task List, basta criar um fork do reposit�
 
 ### Licença
 
-O CLI Task List está disponível sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+O CLI Task List está disponível sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
